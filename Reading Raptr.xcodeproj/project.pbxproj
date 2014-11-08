@@ -13,6 +13,7 @@
 		EDA65BD61A0E2541005D607D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDA65BD51A0E2541005D607D /* Images.xcassets */; };
 		EDA65BD91A0E2541005D607D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDA65BD71A0E2541005D607D /* LaunchScreen.xib */; };
 		EDA65BE51A0E2541005D607D /* Reading_RaptrTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA65BE41A0E2541005D607D /* Reading_RaptrTests.swift */; };
+		EDA65BF01A0E96AE005D607D /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDA65BEE1A0E963E005D607D /* AVFoundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		EDA65BDE1A0E2541005D607D /* Reading RaptrTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Reading RaptrTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDA65BE31A0E2541005D607D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EDA65BE41A0E2541005D607D /* Reading_RaptrTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reading_RaptrTests.swift; sourceTree = "<group>"; };
+		EDA65BEE1A0E963E005D607D /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDA65BF01A0E96AE005D607D /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,6 +62,7 @@
 		EDA65BC01A0E2541005D607D = {
 			isa = PBXGroup;
 			children = (
+				EDA65BEE1A0E963E005D607D /* AVFoundation.framework */,
 				EDA65BCB1A0E2541005D607D /* Reading Raptr */,
 				EDA65BE11A0E2541005D607D /* Reading RaptrTests */,
 				EDA65BCA1A0E2541005D607D /* Products */,
@@ -407,6 +411,7 @@
 				EDA65BEA1A0E2541005D607D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EDA65BEB1A0E2541005D607D /* Build configuration list for PBXNativeTarget "Reading RaptrTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +420,7 @@
 				EDA65BED1A0E2541005D607D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

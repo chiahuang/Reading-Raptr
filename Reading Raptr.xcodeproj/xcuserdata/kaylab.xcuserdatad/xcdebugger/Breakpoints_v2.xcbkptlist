@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reading Raptr/ViewController.swift"
+            timestampString = "437165606.642739"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reading Raptr/ViewController.swift"
+            timestampString = "437165537.723434"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reading_Raptr.ViewController.text1.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextView&gt;"
+                  moduleName = "Reading Raptr"
+                  urlString = "file:///Users/kaylab/Desktop/Reading%20Raptr/Reading%20Raptr/ViewController.swift"
+                  timestampString = "437165537.730819"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reading_Raptr.ViewController.text1.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextView&gt;"
+                  moduleName = "Reading Raptr"
+                  urlString = "file:///Users/kaylab/Desktop/Reading%20Raptr/Reading%20Raptr/ViewController.swift"
+                  timestampString = "437165537.731269"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reading_Raptr.ViewController.text1.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextView&gt;"
+                  moduleName = "Reading Raptr"
+                  urlString = "file:///Users/kaylab/Desktop/Reading%20Raptr/Reading%20Raptr/ViewController.swift"
+                  timestampString = "437165537.731592"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reading_Raptr.ViewController.init (Reading_Raptr.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Reading_Raptr.ViewController"
+                  moduleName = "Reading Raptr"
+                  urlString = "file:///Users/kaylab/Desktop/Reading%20Raptr/Reading%20Raptr/ViewController.swift"
+                  timestampString = "437165537.731968"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reading_Raptr.ViewController.init (Reading_Raptr.ViewController.Type)() -&gt; Reading_Raptr.ViewController"
+                  moduleName = "Reading Raptr"
+                  urlString = "file:///Users/kaylab/Desktop/Reading%20Raptr/Reading%20Raptr/ViewController.swift"
+                  timestampString = "437165537.732289"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reading_Raptr.ViewController.init (Reading_Raptr.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Reading_Raptr.ViewController"
+                  moduleName = "Reading Raptr"
+                  urlString = "file:///Users/kaylab/Desktop/Reading%20Raptr/Reading%20Raptr/ViewController.swift"
+                  timestampString = "437165537.732617"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
