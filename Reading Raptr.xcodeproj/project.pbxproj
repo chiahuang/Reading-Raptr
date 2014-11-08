@@ -1,0 +1,422 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EDA65BCF1A0E2541005D607D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA65BCE1A0E2541005D607D /* AppDelegate.swift */; };
+		EDA65BD11A0E2541005D607D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA65BD01A0E2541005D607D /* ViewController.swift */; };
+		EDA65BD41A0E2541005D607D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDA65BD21A0E2541005D607D /* Main.storyboard */; };
+		EDA65BD61A0E2541005D607D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDA65BD51A0E2541005D607D /* Images.xcassets */; };
+		EDA65BD91A0E2541005D607D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDA65BD71A0E2541005D607D /* LaunchScreen.xib */; };
+		EDA65BE51A0E2541005D607D /* Reading_RaptrTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA65BE41A0E2541005D607D /* Reading_RaptrTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EDA65BDF1A0E2541005D607D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EDA65BC11A0E2541005D607D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EDA65BC81A0E2541005D607D;
+			remoteInfo = "Reading Raptr";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EDA65BC91A0E2541005D607D /* Reading Raptr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Reading Raptr.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDA65BCD1A0E2541005D607D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDA65BCE1A0E2541005D607D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EDA65BD01A0E2541005D607D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EDA65BD31A0E2541005D607D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EDA65BD51A0E2541005D607D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		EDA65BD81A0E2541005D607D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		EDA65BDE1A0E2541005D607D /* Reading RaptrTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Reading RaptrTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDA65BE31A0E2541005D607D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDA65BE41A0E2541005D607D /* Reading_RaptrTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reading_RaptrTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EDA65BC61A0E2541005D607D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EDA65BDB1A0E2541005D607D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EDA65BC01A0E2541005D607D = {
+			isa = PBXGroup;
+			children = (
+				EDA65BCB1A0E2541005D607D /* Reading Raptr */,
+				EDA65BE11A0E2541005D607D /* Reading RaptrTests */,
+				EDA65BCA1A0E2541005D607D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EDA65BCA1A0E2541005D607D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EDA65BC91A0E2541005D607D /* Reading Raptr.app */,
+				EDA65BDE1A0E2541005D607D /* Reading RaptrTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EDA65BCB1A0E2541005D607D /* Reading Raptr */ = {
+			isa = PBXGroup;
+			children = (
+				EDA65BCE1A0E2541005D607D /* AppDelegate.swift */,
+				EDA65BD01A0E2541005D607D /* ViewController.swift */,
+				EDA65BD21A0E2541005D607D /* Main.storyboard */,
+				EDA65BD51A0E2541005D607D /* Images.xcassets */,
+				EDA65BD71A0E2541005D607D /* LaunchScreen.xib */,
+				EDA65BCC1A0E2541005D607D /* Supporting Files */,
+			);
+			path = "Reading Raptr";
+			sourceTree = "<group>";
+		};
+		EDA65BCC1A0E2541005D607D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EDA65BCD1A0E2541005D607D /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EDA65BE11A0E2541005D607D /* Reading RaptrTests */ = {
+			isa = PBXGroup;
+			children = (
+				EDA65BE41A0E2541005D607D /* Reading_RaptrTests.swift */,
+				EDA65BE21A0E2541005D607D /* Supporting Files */,
+			);
+			path = "Reading RaptrTests";
+			sourceTree = "<group>";
+		};
+		EDA65BE21A0E2541005D607D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EDA65BE31A0E2541005D607D /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EDA65BC81A0E2541005D607D /* Reading Raptr */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EDA65BE81A0E2541005D607D /* Build configuration list for PBXNativeTarget "Reading Raptr" */;
+			buildPhases = (
+				EDA65BC51A0E2541005D607D /* Sources */,
+				EDA65BC61A0E2541005D607D /* Frameworks */,
+				EDA65BC71A0E2541005D607D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Reading Raptr";
+			productName = "Reading Raptr";
+			productReference = EDA65BC91A0E2541005D607D /* Reading Raptr.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EDA65BDD1A0E2541005D607D /* Reading RaptrTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EDA65BEB1A0E2541005D607D /* Build configuration list for PBXNativeTarget "Reading RaptrTests" */;
+			buildPhases = (
+				EDA65BDA1A0E2541005D607D /* Sources */,
+				EDA65BDB1A0E2541005D607D /* Frameworks */,
+				EDA65BDC1A0E2541005D607D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EDA65BE01A0E2541005D607D /* PBXTargetDependency */,
+			);
+			name = "Reading RaptrTests";
+			productName = "Reading RaptrTests";
+			productReference = EDA65BDE1A0E2541005D607D /* Reading RaptrTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EDA65BC11A0E2541005D607D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "Kay Lab";
+				TargetAttributes = {
+					EDA65BC81A0E2541005D607D = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					EDA65BDD1A0E2541005D607D = {
+						CreatedOnToolsVersion = 6.1;
+						TestTargetID = EDA65BC81A0E2541005D607D;
+					};
+				};
+			};
+			buildConfigurationList = EDA65BC41A0E2541005D607D /* Build configuration list for PBXProject "Reading Raptr" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EDA65BC01A0E2541005D607D;
+			productRefGroup = EDA65BCA1A0E2541005D607D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EDA65BC81A0E2541005D607D /* Reading Raptr */,
+				EDA65BDD1A0E2541005D607D /* Reading RaptrTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EDA65BC71A0E2541005D607D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDA65BD41A0E2541005D607D /* Main.storyboard in Resources */,
+				EDA65BD91A0E2541005D607D /* LaunchScreen.xib in Resources */,
+				EDA65BD61A0E2541005D607D /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EDA65BDC1A0E2541005D607D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EDA65BC51A0E2541005D607D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDA65BD11A0E2541005D607D /* ViewController.swift in Sources */,
+				EDA65BCF1A0E2541005D607D /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EDA65BDA1A0E2541005D607D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDA65BE51A0E2541005D607D /* Reading_RaptrTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EDA65BE01A0E2541005D607D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EDA65BC81A0E2541005D607D /* Reading Raptr */;
+			targetProxy = EDA65BDF1A0E2541005D607D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		EDA65BD21A0E2541005D607D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EDA65BD31A0E2541005D607D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		EDA65BD71A0E2541005D607D /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EDA65BD81A0E2541005D607D /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EDA65BE61A0E2541005D607D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EDA65BE71A0E2541005D607D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EDA65BE91A0E2541005D607D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Reading Raptr/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EDA65BEA1A0E2541005D607D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Reading Raptr/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		EDA65BEC1A0E2541005D607D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Reading RaptrTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Reading Raptr.app/Reading Raptr";
+			};
+			name = Debug;
+		};
+		EDA65BED1A0E2541005D607D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Reading RaptrTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Reading Raptr.app/Reading Raptr";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EDA65BC41A0E2541005D607D /* Build configuration list for PBXProject "Reading Raptr" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDA65BE61A0E2541005D607D /* Debug */,
+				EDA65BE71A0E2541005D607D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EDA65BE81A0E2541005D607D /* Build configuration list for PBXNativeTarget "Reading Raptr" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDA65BE91A0E2541005D607D /* Debug */,
+				EDA65BEA1A0E2541005D607D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		EDA65BEB1A0E2541005D607D /* Build configuration list for PBXNativeTarget "Reading RaptrTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDA65BEC1A0E2541005D607D /* Debug */,
+				EDA65BED1A0E2541005D607D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EDA65BC11A0E2541005D607D /* Project object */;
+}
