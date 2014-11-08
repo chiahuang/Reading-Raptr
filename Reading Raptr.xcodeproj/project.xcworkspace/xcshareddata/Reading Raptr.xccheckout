@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>63BD68D5-B7DC-4F16-A96C-97CD91A3EED5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Reading Raptr</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B85E4B6A9476FE584F23235CAD4943605DFDB8B7</key>
+		<string>https://github.com/chiahuang/Reading-Raptr.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Reading Raptr.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B85E4B6A9476FE584F23235CAD4943605DFDB8B7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chiahuang/Reading-Raptr.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B85E4B6A9476FE584F23235CAD4943605DFDB8B7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B85E4B6A9476FE584F23235CAD4943605DFDB8B7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Reading-Raptr</string>
+		</dict>
+	</array>
+</dict>
+</plist>
