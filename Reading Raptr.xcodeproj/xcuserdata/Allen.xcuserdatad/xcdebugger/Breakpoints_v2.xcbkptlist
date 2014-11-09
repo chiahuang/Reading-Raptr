@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Reading Raptr/ViewController.swift"
-            timestampString = "437167415.507541"
+            timestampString = "437202522.119186"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
             landmarkName = "buttonSpeakClicked(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -26,11 +26,87 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Reading Raptr/ViewController.swift"
-            timestampString = "437168644.591556"
+            timestampString = "437200954.886166"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "buttonSpeakClicked(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reading Raptr/ViewController.swift"
+            timestampString = "437202522.119186"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reading Raptr/ViewController.swift"
+            timestampString = "437202276.141627"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "buttonSpeakClicked(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reading_Raptr.ViewController.buttonSpeakClicked (Reading_Raptr.ViewController)(ObjectiveC.UIButton) -&gt; ()"
+                  moduleName = "Reading Raptr"
+                  urlString = "file:///Users/Allen/Desktop/IOS_Dev/Reading-Raptr/Reading%20Raptr/ViewController.swift"
+                  timestampString = "437202310.886099"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "2320">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reabstraction thunk helper from @callee_owned (@owned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURLResponse&gt;, @owned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSData&gt;, @owned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSError&gt;) -&gt; (@unowned ()) to @callee_unowned @objc_block (@unowned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURLResponse&gt;, @unowned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSData&gt;, @unowned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSError&gt;) -&gt; (@unowned ())"
+                  moduleName = "Reading Raptr"
+                  urlString = "file:///Users/Allen/Desktop/IOS_Dev/Reading-Raptr/Reading%20Raptr/ViewController.swift"
+                  timestampString = "437202310.888233"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reading Raptr/ViewController.swift"
+            timestampString = "437202274.129443"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
             landmarkName = "buttonSpeakClicked(_:)"
             landmarkType = "5">
          </BreakpointContent>
