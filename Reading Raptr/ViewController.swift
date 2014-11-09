@@ -27,6 +27,10 @@ class ViewController: UIViewController, NSXMLParserDelegate {
     func parser(parser: NSXMLParser!, didStartElement elementName: String!, namespaceURI: String!, qualifiedName qName: String!, attributes attributeDict: NSDictionary!) {
         println("Element's name is \(elementName)")
         println("Element's attributes are \(attributeDict)")
+        
+       // var links = attributeDict["guid"]?.value
+        
+       // println(links)
     }
     
     func textViewDidChange(textView: UITextView!) { //Handle the text changes here
@@ -59,6 +63,8 @@ class ViewController: UIViewController, NSXMLParserDelegate {
                 parser.delegate = self
                 
                 parser.parse()
+                
+                
             }
         }
         //Commented out for test
