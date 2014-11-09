@@ -22,8 +22,11 @@ class ViewController: UIViewController, NSXMLParserDelegate {
     
     // MARK: NSXMLParserDelegate
     
-    func parser(parser: NSXMLParser, foundElementDeclarationWithName elementName: String, model: String) {
-
+    
+    // XML parser
+    func parser(parser: NSXMLParser!, didStartElement elementName: String!, namespaceURI: String!, qualifiedName qName: String!, attributes attributeDict: NSDictionary!) {
+        println("Element's name is \(elementName)")
+        println("Element's attributes are \(attributeDict)")
     }
     
     func textViewDidChange(textView: UITextView!) { //Handle the text changes here
@@ -40,6 +43,7 @@ class ViewController: UIViewController, NSXMLParserDelegate {
         var mySpeechUtterance:AVSpeechUtterance = AVSpeechUtterance(string:myString)
         
         
+        //This feeds the url that will be requested.
         if let url = NSURL(string: "http://rss.cnn.com/rss/cnn_topstories.rss"){
             let request = NSURLRequest(URL: url)
             
